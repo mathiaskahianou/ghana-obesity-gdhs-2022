@@ -1,0 +1,12 @@
+source("scripts/00_packages.R")
+source("scripts/01_load_and_clean.R")
+source("scripts/02_descriptive_analysis.R")
+source("scripts/03_survey_weighted_analysis.R")
+source("scripts/04_tables_and_figures.R")
+source("scripts/05_forest_plot.R")
+
+cat("\n")
+cat("=====================================\n")
+cat("PROJECT RUN COMPLETED SUCCESSFULLY\n")
+cat("=====================================\n")
+cat("\n")
