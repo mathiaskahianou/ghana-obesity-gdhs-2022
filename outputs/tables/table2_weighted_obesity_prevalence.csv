@@ -1,0 +1,16 @@
+"Characteristic","Category","Prevalence","SE"
+"Age group","15–24",6.4,0.71
+"Age group","25–34",20.3,1.3
+"Age group","35–44",29.5,1.55
+"Age group","45–49",29.9,2.34
+"Place of residence","Urban",24.5,1.12
+"Place of residence","Rural",10.2,0.81
+"Educational attainment","No education",10.2,1.17
+"Educational attainment","Primary",17.7,1.98
+"Educational attainment","Secondary",18.8,0.94
+"Educational attainment","Higher",30.2,2.75
+"Household wealth quintile","Poorest",4,0.94
+"Household wealth quintile","Poorer",8.6,1.02
+"Household wealth quintile","Middle",14.5,1.15
+"Household wealth quintile","Richer",24.6,1.44
+"Household wealth quintile","Richest",33.4,1.77
